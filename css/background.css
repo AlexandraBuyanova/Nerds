@@ -1,0 +1,12 @@
+.background{
+    background-color: #EEEEEE;
+}
+.map{
+    background-color: #888888;
+    background-image: url("../img/map.png");
+    width: 1440px;
+    height: 416px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
