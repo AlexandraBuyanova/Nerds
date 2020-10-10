@@ -1,27 +1,13 @@
-.link{
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
+.title_typ{
+    font-weight: bold;
+    font-size: 24px;
     line-height: 30px;
     display: flex;
     align-items: center;
     text-transform: uppercase;
-    color: #000000;   
-}
-.h1{
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 55px;
-    line-height: 55px;
-    display: flex;
-    align-items: center;
     color: #000000;
 }
-.p1{
-    font-family: Roboto;
-    font-style: normal;
+.p2_typ{
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
@@ -29,19 +15,28 @@
     align-items: center;
     color: #283136;
 }
-.button{
-    font-family: Roboto;
-    font-style: normal;
+.white_font{
     font-weight: 500;
     font-size: 16px;
     line-height: 18px;
     display: flex;
     align-items: center;
     text-align: center;
+    text-transform: uppercase;
     color: #FFFFFF;
+    width: 160px;
+    height: 50px;
+    padding: 16px 39.5px;
+}
+.button_red{
     background: #FB565A;
     border-radius: 3px;
 }
-.logo{
-    
+.button_green{
+    background: #00CA74;
+    border-radius: 3px;
+}
+.button_yellow{
+    background: #EFC849;
+    border-radius: 3px;
 }

@@ -1,0 +1,68 @@
+.h1_little_studio{
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 45px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.p1_little_studio{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #283136;
+}
+.p2_little_studio{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #283136;
+}
+.p3_little_studio{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #283136;
+}
+.p4_little_studio{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    color: #283136;
+}
+.precision{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+.numbers{
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 64px;
+    color: #000000;
+}
+.percent{
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 40px;
+    color: #000000;
+}
+.num_and_per{
+    display: inline-flex;
+    /*не знаю, как разместить число с процентом так, как в макете*/
+}
+.dash_location{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}

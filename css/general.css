@@ -1,0 +1,23 @@
+html,
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+    font-style: normal;
+}
+body{
+    width: 1440px;
+    background-color: #ffffff;
+}
+.wrapper{
+    /*width: 1440px; это если считать, что самое широкое место на странице - карта, она занимает весь экран*/
+    width: 1160px;
+    margin: 0 auto;
+}
+.location_space_evenly{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}

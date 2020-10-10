@@ -1,0 +1,16 @@
+.footer_p1_typ{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.footer_p2_typ{
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #444444; 
+}
